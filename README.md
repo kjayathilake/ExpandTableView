@@ -9,6 +9,7 @@ iOS TableView with expanding and shrinking feature
 Source code of this project is available under the standard MIT license. Please see [the license file][LICENSE].
 [LICENSE]:https://github.com/krishanthajayathilake/ExpandTableView/blob/master/LICENSE
 
-### Screens
+## Screens
 
+A quick view of the sample project
 ![Build Platform](images/ScreenShot.png)
