@@ -13,4 +13,4 @@ Source code of this project is available under the standard MIT license. Please 
 
 A quick view of the sample project
 
-![Build Platform](images/ScreenShot.png =300x)
+![Build Platform](./images/ScreenShot.png =300x)
