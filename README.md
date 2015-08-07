@@ -13,4 +13,4 @@ Source code of this project is available under the standard MIT license. Please 
 
 A quick view of the sample project
 
-![Build Platform](./images/ScreenShot.png =300x)
+<img src="https://github.com/krishanthajayathilake/ExpandTableView/blob/master/images/ScreenShot.png" width="300" />
