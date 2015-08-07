@@ -1,6 +1,6 @@
 # ExpandTableView
 
-[![Contact @krishtc](https://img.shields.io/twitter/url/https/shields.io.svg?style=social)](https://twitter.com/krishtc) [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/krishanthajayathilake/ExpandTableView/blob/master/LICENSE)
+[![Contact @krishtc](https://img.shields.io/badge/Contact-%40krishtc-blue.svg?style=flat)](https://twitter.com/krishtc)  [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/krishanthajayathilake/ExpandTableView/blob/master/LICENSE)
 
 iOS TableView with expanding and shrinking feature
 
